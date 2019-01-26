@@ -1,10 +1,10 @@
 # IIITB-ML-Project-Rossmann-Store-Sales
 
-Title - Rossman Store Sales
+Title - Rossman Store Sales<br>
 1)Bharadiya Pavan V.(MT2018023)<br>
 2)Devarakonda Deepak S.(MT2018031)
 
-You are provided with historical sales data for Rossmann stores. The task is to forecast the "Sales" column for the test set. Please note that you need to predict only for one day.
+<p>You are provided with historical sales data for Rossmann stores. The task is to forecast the "Sales" column for the test set. Please note that you need to predict only for one day.</p>
 
 1)All the packages required to run the code are given in "requirements.txt" file.
 2)All the .py files, .csv files,report, .tex file and pickle files except "randomForest_pickle.pkl" are there in zipped folder.
