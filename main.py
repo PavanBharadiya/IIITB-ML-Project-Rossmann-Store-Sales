@@ -227,7 +227,7 @@ if __name__ == "__main__":
     #DecisionTree
     print("\nTraining DecisionTree")
     obj.trainDecisionTreeRegressor(X_train,y_train)
-    print("\nprint("\npredicting Sales using Stacking on test.csv")alidating DecisionTree Regressor")
+    print("\nValidating DecisionTree Regressor")
     predictions_dt = obj.testDecisionTreeRegressor(X_test,y_test)
 
     #Random Forest Regressor
