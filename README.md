@@ -1,7 +1,7 @@
 # IIITB-ML-Project-Rossmann-Store-Sales
 
 Title - Rossman Store Sales
-1)Bharadiya Pavan V.(MT2018023)
+1)Bharadiya Pavan V.(MT2018023)<br>
 2)Devarakonda Deepak S.(MT2018031)
 
 You are provided with historical sales data for Rossmann stores. The task is to forecast the "Sales" column for the test set. Please note that you need to predict only for one day.
