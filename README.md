@@ -6,6 +6,8 @@ Title - Rossman Store Sales<br>
 
 <p>You are provided with historical sales data for Rossmann stores. The task is to forecast the "Sales" column for the test set. Please note that you need to predict only for one day.</p>
 
+Link for the dataset - https://www.kaggle.com/c/iiitb-ml-project-rossmann-store-sales/data <br>
+
 1)All the packages required to run the code are given in "requirements.txt" file.<br>
 2)All the .py files, .csv files,report, .tex file and pickle files except "randomForest_pickle.pkl" are there in pickle files folder.<br>
 3)You should download "randomForest_pickle.pkl" which is of size 280MB so we uploaded it in google drive 
